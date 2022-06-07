@@ -3,5 +3,8 @@ Proyecto de la EXPO 2021, enfocado en crear un sitio web con una solución a pro
 
 Aquí se podrá encontrar adjunto el link para la página web funcional (desde que escribo esto, 6 de junio de 2022) y el vídeo mostrando el proyecto a una audiencia.
 
-Link página web: https://savvytech.fundaciongrupoprovivienda.com/
-Link del vídeo: https://youtu.be/3bMaccUaM2o
+# Link página web
+https://savvytech.fundaciongrupoprovivienda.com/
+
+# Link del vídeo
+https://youtu.be/3bMaccUaM2o  (SavvyTech inicia en el minuto 18:00)
